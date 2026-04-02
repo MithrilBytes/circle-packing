@@ -15,5 +15,5 @@ Image before packing:
 
 After packing:
 
-<img width="686" alt="output" src="https://github.com/user-attachments/assets/8cf2f8cb-ab4c-4edc-b23a-b201c82307ef" />
+<img width="686" alt="output" src="https://raw.githubusercontent.com/MithrilBytes/circle-packing/refs/heads/main/output/circle_packed.png" />
 
