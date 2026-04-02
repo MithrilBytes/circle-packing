@@ -77,7 +77,7 @@ def process_image(image_path, num_circles=1000):
         density = density_map[y, x]  
         edge_strength = edge_map[y, x]  
 
-        radius = max(3, int(20 * (1 - density) * (1 - edge_strength)))  
+        radius = max(3, int(20 * density * (1 - edge_strength)))
 
         color = original_image[y, x].tolist()  
         circles.append(Circle(x, y, radius, color))
