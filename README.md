@@ -15,4 +15,4 @@ Image before packing:
 
 After packing:
 
-![circle_packed](https://github.com/user-attachments/assets/c1ed6132-1e10-439d-947f-0813102ab64f)
+[![circle_packed](https://github.com/user-attachments/assets/c1ed6132-1e10-439d-947f-0813102ab](https://github.com/MithrilBytes/circle-packing/blob/main/output/circle_packed.png)
